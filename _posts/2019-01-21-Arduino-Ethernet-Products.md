@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'The real products based on Arduino-Ethernet'
 author: bongjun.hur
 date: 2019-01-21 10:00

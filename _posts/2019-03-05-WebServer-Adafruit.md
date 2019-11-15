@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'IPv6 WebServer example with WIZnet W6100 chip'
 author: bongjun.hur
 date: 2019-03-05 13:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'List of Arduino Ethernet Shield products'
 author: bongjun.hur
 date: 2019-01-15 14:11

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '지킬 블로그 만들기 - jekyll, github, github pages'
 author: bongjun.hur
 date: 2016-07-21 13:11

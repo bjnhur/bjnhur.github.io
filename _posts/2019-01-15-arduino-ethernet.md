@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'The state of Arduino Ethernet Library'
 author: bongjun.hur
 date: 2019-01-15 13:11

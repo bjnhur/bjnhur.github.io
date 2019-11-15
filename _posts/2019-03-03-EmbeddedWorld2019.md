@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Embedded World 2019'
 author: bongjun.hur
 date: 2019-01-21 10:00
